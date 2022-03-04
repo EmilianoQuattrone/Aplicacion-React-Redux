@@ -1,0 +1,1 @@
+Es una aplicacion hecha con: Reac,React router v6, Redux redux-thunk (para acciones asincornas), Fire base (CRUD), Sass
